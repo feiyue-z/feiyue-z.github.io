@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Contact
+title: Feiyue Zhang
 description: > # this means to ignore newlines until "baseurl:"
 repository: https://github.com/feiyue-z/feiyue-z.github.io
-baseurl: /me  # the subpath of your site, e.g. /blog
-url: https://wemake-services.github.io  # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://feiyue-z.github.io/  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
