@@ -36,7 +36,7 @@ projects:
   - name: Game Engine
     description: A 2D game engine made with Java and a demo game to show it capabilities.
     link: https://sobolevn.github.io/git-secret
-    image: https://github.com/sobolevn/git-secret/blob/7c9ae0b1853d4c15549027524121b9e40219fe47/images/git-secret-sm.png?raw=true
+    image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_1.png?raw=true
   - name: Real-time 3D Rendering
     description: Rendering 3D images with Phong illumination model in OpenGL.
     link: https://github.com/sobolevn/awesome-cryptography
