@@ -45,6 +45,10 @@ projects:
     description: Implementation of Monte Carlo path tracing using physically-based rendering techniques.
     link: https://github.com/feiyue-z/monte-carlo-path-tracer
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_4.png?raw=true
+  - name: Halfedge Lab
+    description: Collection of geometry processing methods, such as subdivide, simplify, remesh and denoise.
+    link: https://github.com/feiyue-z/halfedge-lab
+    image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_5.png?raw=true
   - name: Real-time 3D Rendering
     description: Rendering 3D objects with Phong illumination model in OpenGL.
     link: https://github.com/feiyue-z/realtime_render
