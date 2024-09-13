@@ -34,7 +34,7 @@ navigation:
 
 projects:
   - name: StretchIt
-    description: Interactive cage-based 3D deformation Qt app.
+    description: Interactive cage-based 2D/3D deformation with MVC/Green Coordinate.
     link: https://github.com/Junyu-Liu-Nate/Shape-Deformation-with-Cages
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_3.png?raw=true
   - name: Game Engine
