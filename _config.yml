@@ -49,12 +49,12 @@ projects:
     description: Rendering 3D objects with Phong illumination model in OpenGL.
     link: https://github.com/feiyue-z/realtime_render
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_2.png?raw=true
-  - name: Search Engine
-    description: Simple search engine built from the ground up in Python.
-    link: https://github.com/feiyue-z/search_engine
-  - name: Online Shop
-    description: Web application using Spring Boot, React, and MySQL.
-    link: https://github.com/feiyue-z/online_shop
+  # - name: Search Engine
+  #   description: Simple search engine built from the ground up in Python.
+  #   link: https://github.com/feiyue-z/search_engine
+  # - name: Online Shop
+  #   description: Web application using Spring Boot, React, and MySQL.
+  #   link: https://github.com/feiyue-z/online_shop
 
 social:
   - service: github
