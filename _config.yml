@@ -54,3 +54,6 @@ social:
   - service: github
     username: feiyue-z
     link: https://github.com/feiyue-z
+  - service: linkedin
+    username: Feiyue Zhang
+    link: https://twitter.com/sobolevn
