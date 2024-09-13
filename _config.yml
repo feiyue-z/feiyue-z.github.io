@@ -41,6 +41,10 @@ projects:
     description: 2D game engine made in Java and a demo game to show its capabilities.
     link: https://github.com/feiyue-z/game_engine
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_1.png?raw=true
+  - name: Monte Carlo Path Tracer
+    description: Implementation of Monte Carlo path tracing using physically-based rendering techniques.
+    link: https://github.com/feiyue-z/monte-carlo-path-tracer
+    image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_4.png?raw=true
   - name: Real-time 3D Rendering
     description: Rendering 3D images with Phong illumination model in OpenGL.
     link: https://github.com/feiyue-z/realtime_render
