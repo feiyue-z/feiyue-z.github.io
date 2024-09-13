@@ -33,8 +33,12 @@ navigation:
     url: /projects
 
 projects:
+  - name: StretchIt
+    description: Interactive cage-based 3D deformation Qt app.
+    link: https://github.com/Junyu-Liu-Nate/Shape-Deformation-with-Cages
+    image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_3.png?raw=true
   - name: Game Engine
-    description: A 2D game engine made with Java and a demo game to show it capabilities.
+    description: 2D game engine made with Java and a demo game to show its capabilities.
     link: https://github.com/feiyue-z/game_engine
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_1.png?raw=true
   - name: Real-time 3D Rendering
@@ -42,11 +46,11 @@ projects:
     link: https://github.com/feiyue-z/realtime_render
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_2.png?raw=true
   - name: Search Engine
-    description: A simple search engine built from the ground up in Python.
+    description: Simple search engine built from the ground up in Python.
     link: https://github.com/feiyue-z/search_engine
     # image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_3.png?raw=true
   - name: Online Shop
-    description: A web application using Spring Boot, React, and MySQL.
+    description: Web application using Spring Boot, React, and MySQL.
     link: https://github.com/feiyue-z/online_shop
     # image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_4.png?raw=true
 
