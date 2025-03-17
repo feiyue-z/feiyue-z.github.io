@@ -34,7 +34,7 @@ navigation:
 
 projects:
   - name: Gravity Simulator
-    description: A fun experiment with Three.js and WebXR to view XR content via browser
+    description: A fun experiment with Three.js and WebXR to view XR content through browser
     link: https://feiyue-z.github.io/three-sim/
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_6.png?raw=true
   - name: StretchIt
@@ -42,7 +42,7 @@ projects:
     link: https://github.com/Junyu-Liu-Nate/Shape-Deformation-with-Cages
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_3.png?raw=true
   - name: Game Engine
-    description: 2D game engine made in Java
+    description: 2D game engine made in Java and a demo game
     link: https://youtu.be/B47Swh7UOCI
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_1.png?raw=true
   - name: Monte Carlo Path Tracer
