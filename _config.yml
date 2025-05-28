@@ -38,7 +38,7 @@ projects:
     link: https://sensescape.world/
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_8.png?raw=true
   - name: Particle System in XR
-    description: Create particles and visualize its trajectories!bundle exec jekyll serve
+    description: Create particles and visualize its trajectories!
     link: https://feiyue-z.github.io/particle-sim/
     image: https://github.com/feiyue-z/feiyue-z.github.io/blob/gh-pages/images/preview_7.png?raw=true
   - name: Gravity Simulator
